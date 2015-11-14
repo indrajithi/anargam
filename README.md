@@ -1,3 +1,3 @@
 # Anargam
-Jumbled word solver written in python.
+Jumbled words solver written in python.
 
